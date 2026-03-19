@@ -1,6 +1,6 @@
 # ☕ Java Array Matrix
 
-> Übungsaufgaben zu mehrdimensionalen Arrays und Matrizen – entwickelt im Rahmen der Umschulung zur Fachinformatikerin Anwendungsentwicklung (FANW).
+> Übungsaufgaben zu mehrdimensionalen Arrays und Matrizen – entwickelt im Rahmen der Umschulung zur Fachinformatikerin Anwendungsentwicklung (FIAE).
 
 ## 📋 Projektbeschreibung
 
